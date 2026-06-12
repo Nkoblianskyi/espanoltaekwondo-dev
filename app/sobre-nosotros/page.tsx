@@ -208,7 +208,7 @@ export default function SobreNosotrosPage() {
               <em>con rigor y pasión</em>
             </h2>
             <p className="text-muted-foreground leading-relaxed font-sans text-pretty">
-              Espanol Taekwondo nació en 2018 como respuesta a la escasez de contenido de calidad en español sobre este deporte. Demasiadas webs ofrecían información superficial, desactualizada o copiada sin criterio. Decidimos construir algo diferente: una plataforma editorial donde cada artículo fuera revisado por expertos reales.
+              Espanol Taekwondo surge como respuesta a la escasez de contenido de calidad en español sobre este deporte. Demasiadas webs ofrecían información superficial, desactualizada o copiada sin criterio. Decidimos construir algo diferente: una plataforma editorial donde cada artículo fuera revisado por expertos reales.
             </p>
             <p className="text-muted-foreground leading-relaxed font-sans text-pretty">
               Hoy contamos con más de 200 artículos publicados sobre técnica, historia, reglamento, equipamiento y filosofía del taekwondo. Todo el contenido es de carácter informativo y educativo, sin vínculos comerciales ni patrocinadores que influyan en nuestra línea editorial.

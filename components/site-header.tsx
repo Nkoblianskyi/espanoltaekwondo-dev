@@ -107,9 +107,9 @@ export function SiteHeader() {
         {/* Logo + Wordmark */}
         <Link href="/" className="flex items-center gap-3 group" aria-label="Espanol Taekwondo inicio">
           <EtLogo />
-          <span className="font-heading text-foreground text-sm font-bold tracking-widest uppercase leading-none hidden sm:flex flex-col gap-0">
-            <span className="text-primary">Espanol</span>
-            <span className="text-foreground/70 text-xs tracking-[0.22em]">Taekwondo</span>
+          <span className="font-heading text-foreground text-xs sm:text-sm font-bold tracking-widest uppercase leading-none flex flex-col gap-0 min-w-0">
+            <span className="text-primary truncate">Espanol</span>
+            <span className="text-foreground/70 text-[10px] sm:text-xs tracking-[0.22em] truncate">Taekwondo</span>
           </span>
         </Link>
 
